@@ -8,22 +8,13 @@ Welcome to Need (yeet). Thanks in advance for contributing!
 
 ## Repository Structure
 
-📦root
-
- ┣ 📂docs
- 
- ┣ 📂src
- 
- ┣ 📂test
- 
- ┣ 📜.dockerignore
- 
- ┣ 📜.gitignore
- 
- ┣ 📜docker-compose.yml
- 
- ┣ 📜Dockerfile
- 
- ┣ 📜LICENSE
- 
- ┗ 📜README.md
+📦root  
+ ┣ 📂docs  
+ ┣ 📂src  
+ ┣ 📂test  
+ ┣ 📜.dockerignore  
+ ┣ 📜.gitignore  
+ ┣ 📜docker-compose.yml  
+ ┣ 📜Dockerfile  
+ ┣ 📜LICENSE  
+ ┗ 📜README.md  
